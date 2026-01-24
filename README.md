@@ -1,2 +1,0 @@
-# BiblePolish
-BiblePolish
